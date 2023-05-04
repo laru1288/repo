@@ -1,0 +1,92 @@
+[
+{
+    "id":1, 
+    "nombre":"Cafe colombiano 1k", 
+    "precio":1500, 
+    "categoria":"cafe", 
+    "stock":4, 
+    "img":"./img/cafecolombiano.webp", 
+    "desc":"Cafe colombiano de primera calidad. Presentación 1 kilo."
+},
+{
+    "id":2, 
+    "nombre":"Cafe colombiano 1/2k", 
+    "precio":800, 
+    "categoria":"cafe", 
+    "stock":2, 
+    "img":"./img/cafecolombiano.webp", 
+    "desc":"Cafe colombiano de primera calidad. Presentación 1/2 kilo."
+},
+{
+    "id":3, 
+    "nombre":"Cafe italiano 1k", 
+    "precio":1600, 
+    "categoria":"cafe", 
+    "stock":2, 
+    "img":"./img/cafeitaliano.webp", 
+    "desc":"Cafe italiano de primera calidad. Presentación 1 kilo."
+},
+{
+    "id":4, 
+    "nombre":"Cafe italiano 1/2k", 
+    "precio":900, 
+    "categoria":"cafe", 
+    "stock":3, 
+    "img":"./img/cafeitaliano.webp", 
+    "desc":"Cafe italiano de primera calidad. Presentación 1/2 kilo."
+},
+{
+    "id":5, 
+    "nombre":"Blend cafe 1k", 
+    "precio":2000, 
+    "categoria":"cafe", 
+    "stock":1, 
+    "img":"./img/cafeblend.webp", 
+    "desc":"El mas exquisito blend de cafe. Presentacion 1 kilo"
+},
+{
+    "id":6, 
+    "nombre":"Blend cafe 1/2k", 
+    "precio":1200, 
+    "categoria":"cafe", 
+    "stock":3, 
+    "img":"./img/cafeblend.webp", 
+    "desc":"El mas exquisito blend de cafe. Presentacion 1/2 kilo"
+},
+{
+    "id":7, 
+    "nombre":"Taza especial", 
+    "precio":2500, 
+    "categoria":"accesorios", 
+    "stock":1, 
+    "img":"./img/taza.webp", 
+    "desc":"Taza especial, la taza mas linda que vas a ver en tu vida, capacidad: 300ml."
+},
+{
+    "id":8, 
+    "nombre":"Azucar en cubos", 
+    "precio":500, 
+    "categoria":"extras", 
+    "stock":2, 
+    "img":"./img/azucar.webp", 
+    "desc":"Cubos de azucar, presentacion ideal para usar la medida justa y ademas son re instagrameables! Presentacion de 1/2 kilo."
+},
+{
+    "id":9, 
+    "nombre":"Cuchara fancy", 
+    "precio":600, 
+    "categoria":"accesorios", 
+    "stock":2, 
+    "img":"./img/cuchara.webp", 
+    "desc":"Ningun cafe esta completo sin esta cuchara."
+},
+{
+    "id":10,
+    "nombre": "Amarettis", 
+    "precio":400, 
+    "categoria":"extras", 
+    "stock":3, 
+    "img":"./img/amaretti.webp", 
+    "desc":"Mini galletitas de almendra, las mas ricas para acompañar tu cafe. Presentacion de 250gm."
+}
+]
